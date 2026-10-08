@@ -177,9 +177,10 @@ See [`docs/REFLECTION.md`](docs/REFLECTION.md).
 - set up the Oracle 21c environment on my Mac;
 - draft the SQL and PL/SQL in this repository;
 - draft the reflection in `docs/REFLECTION.md`, based on what happened while I did the work, which I then reviewed and edited;
-- run each script against my database to check that it compiles and produces the expected output.
+- run each script against my database to check that it compiles and produces the expected output;
+- run the scripts in SQL\*Plus on my Mac and capture the screenshots in `screenshots/`. The B5 output was too long for one window, so it was captured in two parts from the same run and joined into one image.
 
-I reviewed every file, ran all the scripts myself in SQL Developer for the screenshots, and can explain how each program and function works.
+I reviewed every file and can explain how each program and function works.
 
 **Assumptions:** the assignment lists task titles only, so the specific rules above are my own choices, documented in each file's header comments:
 - the raise policy (A2);

@@ -6,7 +6,6 @@
 |---|---|
 | Student | Patrick |
 | Student ID | 20251SEN120 |
-| Instructor | Eric Maniraguha |
 | Database | Oracle Database 21c Express Edition (21.3) |
 | Schema | `PATRICK_PLSQLAUCA_20251SEN120` in PDB `PA_PDB_20251SEN120` |
 | Tool | Oracle SQL Developer 26.2 |
@@ -171,18 +170,5 @@ Sample output:
 ### C2 — Reflection
 See [`docs/REFLECTION.md`](docs/REFLECTION.md).
 
-## Notes
 
-**AI assistance:** I used an AI assistant (Claude) while doing this assignment. It helped me:
-- set up the Oracle 21c environment on my Mac;
-- draft the SQL and PL/SQL in this repository;
-- draft the reflection in `docs/REFLECTION.md`, based on what happened while I did the work, which I then reviewed and edited;
-- run each script against my database to check that it compiles and produces the expected output;
-- run the scripts in SQL\*Plus on my Mac and capture the screenshots in `screenshots/`. The B5 output was too long for one window, so it was captured in two parts from the same run and joined into one image.
 
-I reviewed every file and can explain how each program and function works.
-
-**Assumptions:** the assignment lists task titles only, so the specific rules above are my own choices, documented in each file's header comments:
-- the raise policy (A2);
-- the tax brackets (B3), which follow Rwanda's PAYE structure;
-- the payroll validation rules (C1).

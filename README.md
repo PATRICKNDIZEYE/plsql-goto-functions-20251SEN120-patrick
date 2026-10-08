@@ -176,6 +176,7 @@ See [`docs/REFLECTION.md`](docs/REFLECTION.md).
 **AI assistance:** I used an AI assistant (Claude) while doing this assignment. It helped me:
 - set up the Oracle 21c environment on my Mac;
 - draft the SQL and PL/SQL in this repository;
+- draft the reflection in `docs/REFLECTION.md`, based on what happened while I did the work, which I then reviewed and edited;
 - run each script against my database to check that it compiles and produces the expected output.
 
 I reviewed every file, ran all the scripts myself in SQL Developer for the screenshots, and can explain how each program and function works.
